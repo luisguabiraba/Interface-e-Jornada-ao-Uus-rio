@@ -1,4 +1,4 @@
-# Interface-e-Jornada-ao-Uus-rio
+# Interface-e-Jornada-ao-Usuário
 
 Interface Prática e Intuitiva, que visa facilitar a vida do usuário.<br>
 
